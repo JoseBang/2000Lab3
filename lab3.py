@@ -1,4 +1,6 @@
 name = "Jose Bang"
 numbers = {1, 10, 100, 1000, 10000}
+campus = "Boco Raton, Florida"
 print("Student:", name)
 print("Numbers:", numbers)
+print("Campus:", campus)
